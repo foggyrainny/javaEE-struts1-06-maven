@@ -1,0 +1,1 @@
+# javaEE-struts1-06-maven
